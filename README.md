@@ -1,6 +1,5 @@
 settings.ini   
 [client]  
-ip = 91.134.234.22  
-port = 7777  
+serverid = 0  
 name = Player  
-password =  
+
